@@ -1,0 +1,13 @@
+node_modules/
+**/node_modules/
+build/
+**/build/
+.dart_tool/
+**/.dart_tool/
+.DS_Store
+**/.DS_Store
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+*.log

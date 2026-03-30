@@ -21,6 +21,16 @@ services:
     volumes:
       - db-data:/var/lib/postgresql/data
 
+  ngrok:
+    image: ngrok/ngrok:latest
+    ports:
+      - "4040:4040"
+    volumes:
+      - ~/.ngrok2:/var/lib/ngrok
+    command: http odoo:8069 --log=stdout
+    depends_on:
+      - odoo
+
 volumes:
   odoo-data:
   db-data:
