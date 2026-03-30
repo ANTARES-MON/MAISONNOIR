@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64a6a232-6865-441d-8ec2-5a4d10b05c10" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/MaisonNoir_Website.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/app/Http/Controllers/AuthController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/app/Http/Controllers/ClientController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/app/Http/Controllers/DashboardController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/app/Http/Controllers/OrderController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/app/Http/Controllers/ProductController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/app/Services/OdooService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/Ceinture Cuir Premium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/Costume 人ite Homme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/Escarpins Nuit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/Foulard Soie Imprim‚.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/Manteau Long Cachemire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/Pantalon Tailleur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/Pochette Soir‚e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/Robe Minuit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/Sac Cuir Or.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/Veste Signature Noir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/cat_accessories.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/cat_clothing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/cat_shoes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/city_casa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/city_marrakech.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/public/hero_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end/vite.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3Bdh0ozlLF7mGzDvvumUtzARL1c" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.main.dart.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "io.flutter.project.isFirstOpen": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/antares/maisonnoir/mobile",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64a6a232-6865-441d-8ec2-5a4d10b05c10" name="Changes" comment="" />
+      <created>1774824633689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774824633689</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+</project>
